@@ -4,5 +4,5 @@ The financial-planner jupyter notebook requires you to add your API_keys in my_k
 
 Variables today, start_date and end_date need to be modified to the dates you want to obtain the data.
 
-Plots can be found under graphics folder, when you run the codes new ones will be generated. 
+Plots can be found under graphics folder, when you run the code new ones will be generated. 
 
