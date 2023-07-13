@@ -1,4 +1,4 @@
-## Financial Planner Considerations
+## Financial Planner
 
 The financial-planner jupyter notebook requires you to add your API_keys in my_keys.env file for code to work.
 
